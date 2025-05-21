@@ -1,4 +1,0 @@
-1 fast api==0.110.2
-2 uvicorn[standard]==0.29.0
-3 python-multipart==0.0.9
-
